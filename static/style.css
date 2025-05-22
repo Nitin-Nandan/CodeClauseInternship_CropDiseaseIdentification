@@ -1,0 +1,91 @@
+body {
+    font-family: 'Segoe UI', system-ui;
+    background-color: #f8f9fa;
+    min-height: 100vh;
+    margin: 0;
+    padding: 0;
+    position: relative;
+    padding-top: 32px;
+    padding-bottom: 32px;
+}
+
+.main-container {
+    background: white;
+    border-radius: 12px;
+    padding: 2rem;
+    margin: 20px 0;
+}
+
+.img-preview {
+    max-height: 300px;
+    border: 2px solid #eee;
+    border-radius: 8px;
+    object-fit: contain;
+}
+
+.upload-new-btn {
+    font-weight: 500;
+    border-radius: 6px;
+    box-shadow: none;
+    background-color: #f8f9fa;
+    color: #333;
+    border: 1px solid #bbb;
+    width: 100%;
+    max-width: 500px;
+    margin: 0 auto 18px auto;
+    display: block;
+    transition: background 0.2s;
+}
+.upload-new-btn:hover, .upload-new-btn:focus {
+    background-color: #e2e6ea;
+    color: #007bff;
+    border-color: #007bff;
+}
+
+.custom-footer-card {
+    max-width: 600px;
+    margin: 48px auto 0 auto;
+    background: #fff;
+    border-radius: 16px;
+    box-shadow: 0 2px 16px rgba(0,0,0,0.04);
+    padding: 1.2rem 1.5rem 1rem 1.5rem;
+    text-align: center;
+}
+.custom-footer-card .social-icons {
+    margin-top: 8px;
+}
+
+.social-icons a {
+    margin: 0 8px;
+    color: inherit;
+}
+.social-icons a:hover {
+    color: #0077b5;
+}
+
+.alert {
+    border-radius: 8px;
+}
+
+.btn-primary {
+    background-color: #007bff;
+    border: none;
+    transition: all 0.3s ease;
+}
+
+.btn-primary:hover {
+    background-color: #0056b3;
+    transform: translateY(-1px);
+    box-shadow: 0 4px 12px rgba(0,123,255,0.3);
+}
+
+@media (max-width: 768px) {
+    .main-container {
+        margin: 10px 0;
+    }
+    .h-100 {
+        height: auto !important;
+    }
+    .upload-new-btn { max-width: 100%; }
+    .custom-footer-card { max-width: 95vw; }
+}
