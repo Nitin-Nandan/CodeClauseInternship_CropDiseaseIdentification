@@ -21,4 +21,10 @@ A user-friendly deep learning web app for identifying crop diseases from leaf im
 * Go to **Terminal>New Terminal**.
 * Make sure the terminal type is **Command Prompt** (not PowerShell).
 
+### 2. Clone the Repositry
+
+```bash
+git clone https://github.com/Nitin-Nandan/CodeClauseInternship_CropDiseaseIdentification.git
+```
+
 ---
