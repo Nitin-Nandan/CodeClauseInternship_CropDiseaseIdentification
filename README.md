@@ -12,8 +12,8 @@ A user-friendly deep learning web app for identifying crop diseases from leaf im
     * Type and select, `Terminal: Select Default Profile`
     * Choose **Command Prompt** from the list of available terminals.
 * Git
-* Python 3.12.x (added to PATH)
-* Microsoft Visual C++ Redistributable 2015-2022
+* [Python 3.12.x](https://www.python.org/downloads/release/python-3120/) **(added to PATH)**
+* [Microsoft Visual C++ Redistributable 2015-2022](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170#visual-studio-2015-2017-2019-and-2022)
 
 ---
 
