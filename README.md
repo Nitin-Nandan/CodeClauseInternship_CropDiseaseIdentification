@@ -7,9 +7,13 @@ A user-friendly deep learning web app for identifying crop diseases from leaf im
 ## Dependencies
 
 * Visual Studio Code (with Python, Pylance, and Jupyter extensions)
-    * **[Recommended]** Set VS Code's default terminal to Command Prompt (`cmd`) for smoothest experience.
+* **[Recommended]** Set VS Code's default terminal to Command Prompt (`cmd`) for smoothest experience.
 * Git
 * Python 3.12.x (added to PATH)
 * Microsoft Visual C++ Redistributable 2015-2022
+
+---
+
+## Environment Setup & Usage
 
 ---
