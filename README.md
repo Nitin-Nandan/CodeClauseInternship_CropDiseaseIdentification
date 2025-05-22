@@ -75,6 +75,12 @@ python app.py
 ```
 
 * The app should open in your browser automatically.
-    > 💡 If the app does not open automatically, visit the URL displayed on the terminal.
+* If the app does not open automatically, visit the URL displayed on the terminal.
+
+### 9. (Optional) Deactivate Virtual Environment
+
+```bash
+deactivate
+```
 
 ---
