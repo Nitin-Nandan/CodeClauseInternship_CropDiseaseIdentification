@@ -16,7 +16,9 @@ A user-friendly deep learning web app for identifying crop diseases from leaf im
 
 ## Environment Setup & Usage
 
-### Open Terminal in VS Code
-#### Open Terminal in VS Code
+### 1. Open Terminal in VS Code
+    * Open project folder.
+    * Go to **Terminal>New Terminal**.
+    * Make sure the terminal type is **Command Prompt** (not PowerShell).
 
 ---
