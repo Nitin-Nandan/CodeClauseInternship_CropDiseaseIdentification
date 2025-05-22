@@ -46,6 +46,7 @@ py -3.12 -m venv venv
 
 * This creates a `venv` folder in your cloned directory.
 
+<br>
 
 ### 5. Activate the Virtual Environment
 
