@@ -106,6 +106,14 @@ deactivate
 * Click **“Choose File”** and select a plant leaf image (JPG/PNG, max size 2MB).
 * Click **“🔍 Analyze Image”** to get the prediction.
 
-<div align="center"> <img src="static/no-input.png" alt="No Input Screen" width="45%" style="margin-right:10px;" />
+<div align="center"><img src="static/no-input.png" alt="No Input Screen" width="45%" /></div>
+
+### 2. View the Result
+
+* See the predicted disease with confidence score.
+* Read its description and prevention tips.
+* If confidence is low, the app will suggest consulting an expert.
+
+<div align="center"><img src="static/with-input.png" alt="With Leaf Input Screen" width="45%" /></div>
 
 ---
