@@ -178,6 +178,21 @@ The included model (`crop_disease_model.keras`) was trained with the following s
 
 ---
 
+## Author
+
+### Nitin Nandan
+#### - Project Creator & Maintainer
+
+---
+
+## Acknowledgements
+
+- This project uses the [PlantVillage Dataset](https://www.kaggle.com/datasets/emmarex/plantdisease), made available by the original authors and contributors.
+- Special thanks to the developers and maintainers of open-source libraries including TensorFlow, Keras, scikit-learn, Flask, and others.
+- Thanks to the authors of various tutorials and articles that guided my understanding of deep learning and web app deployment.
+
+---
+
 ## FAQs
 
 ### 1. I get an error about missing classes or images?
