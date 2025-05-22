@@ -24,9 +24,9 @@
 ## Features
 
 * Simple UI for uploading crop images.
-* Automated disease identification using state-of-the-art CNN models
-* Built with Python, Flask, and TensorFlow
-* Designed to support agricultural communities with accessible technology
+* Automated disease identification using state-of-the-art CNN models.
+* Built with Python, Flask, and TensorFlow.
+* Designed to support agricultural communities with accessible technology.
 
 ---
 
