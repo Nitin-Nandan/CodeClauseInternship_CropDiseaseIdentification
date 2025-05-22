@@ -17,7 +17,7 @@
 
 ## Introduction
 
-**Crop Disease Identification** is a deep learning web application built for the CodeClause Internship (Golden Level) by Nitin Nandan. The project aims to help farmers identify crop diseases through image uploads and AI-based analysis.
+**Crop Disease Identification** is a deep learning web application built for the CodeClause Internship (Golden Level) by Nitin Nandan. The project aims to help farmers identify crop diseases through image uploads and deep learning based analysis.
 
 ---
 
