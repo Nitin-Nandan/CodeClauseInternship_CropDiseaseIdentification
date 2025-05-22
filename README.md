@@ -40,7 +40,6 @@ cd CodeClauseInternship_CropDiseaseIdentification
 ### Create a Virtual Environment
 
 **In VS Code terminal:**
-
 ```bash
 py -3.12 -m venv venv
 ```
