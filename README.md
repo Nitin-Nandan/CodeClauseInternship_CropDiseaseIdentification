@@ -10,6 +10,7 @@ A user-friendly deep learning web app for identifying crop diseases from leaf im
 * [Prerequisites](#prerequisites)
 * [Environment Setup & Usage](#environment-setup--usage)
 * [How to Use the App](#how-to-use-the-app)
+* [Model Training Details]()
 
 ---
 
@@ -119,5 +120,32 @@ deactivate
 ### 3. Upload another image
 
 * Click the **“⬆️ Upload New Image”** button to try again.
+
+---
+
+## Model Training Details
+
+The included model (`crop_disease_model.keras`) was trained with the following settings:
+
+<div align="center">
+
+| Parameter             | Value                                          |
+| --------------------- | ---------------------------------------------- |
+| Model                 | MobileNetV2 (ImageNet pretrained)              |
+| Input Size            | 224x224 RGB                                    |
+| Batch Size            | 32                                             |
+| Optimizer             | Adam                                           |
+| Initial Learning Rate | 0.0001                                         |
+| Fine-tuning LR        | 0.00001                                        |
+| Epochs (initial)      | 50                                             |
+| Fine-tuning Epochs    | 15                                             |
+| Early Stopping        | Patience = 8                                   |
+| Class Weighting       | Balanced                                       |
+| Data Augmentation     | Rotation, shift, shear, zoom, brightness, flip |
+
+</div>
+
+<div align="center"> <img src="static/output.png" alt="Training Graph" width="75%" /> </div>
+<p align="center"><em>Accuracy & Loss curves from model training</em></p>
 
 ---
