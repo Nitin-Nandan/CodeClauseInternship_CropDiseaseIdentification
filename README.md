@@ -95,3 +95,13 @@ deactivate
 ```
 
 ---
+
+## How to Use the App
+
+**After you open the app using `python app.py`, follow these steps:**
+
+<div align="center"> <img src="static/no-input.png" alt="No Input Screen" width="45%" style="margin-right:10px;" />
+
+
+
+---
