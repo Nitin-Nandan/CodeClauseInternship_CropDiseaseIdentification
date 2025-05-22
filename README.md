@@ -12,6 +12,8 @@ A user-friendly deep learning web app for identifying crop diseases from leaf im
 * [How to Use the App](#how-to-use-the-app)
 * [Model Training Details](#model-training-details)
 * [How to Retrain the Model](#how-to-retrain-the-model)
+* [Author](#author)
+* [Acknowledgements](#acknowledgements)
 * [FAQs](#faqs)
 
 ---
