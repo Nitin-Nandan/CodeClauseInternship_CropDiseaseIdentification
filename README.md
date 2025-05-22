@@ -9,6 +9,7 @@ A user-friendly deep learning web app for identifying crop diseases from leaf im
 * [Introduction](#-crop-disease-identification)
 * [Prerequisites](#prerequisites)
 * [Environment Setup & Usage](#environment-setup--usage)
+* [How to Use the App](#how-to-use-the-app)
 
 ---
 
@@ -100,8 +101,11 @@ deactivate
 
 **After you open the app using `python app.py`, follow these steps:**
 
+### 1. Upload a Leaf Image
+
+* Click **“Choose File”** and select a plant leaf image (JPG/PNG, max size 2MB).
+* Click **“🔍 Analyze Image”** to get the prediction.
+
 <div align="center"> <img src="static/no-input.png" alt="No Input Screen" width="45%" style="margin-right:10px;" />
-
-
 
 ---
