@@ -180,8 +180,9 @@ The included model (`crop_disease_model.keras`) was trained with the following s
 
 ## Author
 
-### Nitin Nandan
-#### - Project Creator & Maintainer
+### Nitin Nandan <br> - Project Creator & Maintainer
+
+***This project was developed as part of the CodeClause Internship Program.***
 
 ---
 
