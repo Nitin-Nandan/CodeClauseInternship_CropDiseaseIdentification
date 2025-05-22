@@ -23,8 +23,12 @@ A user-friendly deep learning web app for identifying crop diseases from leaf im
 
 ### 2. Clone the Repositry
 
-&nbsp;&nbsp;&nbsp;&nbsp;```bash
-&nbsp;&nbsp;&nbsp;&nbsp;git clone https://github.com/Nitin-Nandan/CodeClauseInternship_CropDiseaseIdentification.git
-&nbsp;&nbsp;&nbsp;&nbsp;```
+```bash
+git clone https://github.com/Nitin-Nandan/CodeClauseInternship_CropDiseaseIdentification.git
+```
+
+```bash
+cd CodeClauseInternship_CropDiseaseIdentification
+```
 
 ---
