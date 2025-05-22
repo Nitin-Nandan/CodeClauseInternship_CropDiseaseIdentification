@@ -11,6 +11,7 @@ A user-friendly deep learning web app for identifying crop diseases from leaf im
 * [Environment Setup & Usage](#environment-setup--usage)
 * [How to Use the App](#how-to-use-the-app)
 * [Model Training Details](#model-training-details)
+* [How to Retrain the Model]()
 
 ---
 
@@ -151,5 +152,27 @@ The included model (`crop_disease_model.keras`) was trained with the following s
 ### Hardware
 
 * Trained on CPU (Intel i7-1255U, 16GB RAM) — no GPU required.
+
+---
+
+## How to Retrain the Model
+
+**To retrain or experiment with the model:**
+
+### 1. Open the Notebook
+
+* Open `crop_disease_identification.ipynb` in VS Code.
+
+### 2. Adjust Parameters
+
+* Modify image size, batch size, model type, epochs, augmentation, etc.
+
+### 3. Run all Cells
+
+* The notebook guides you through data preprocessing, training, and saving.
+
+### 4. Replace the Model:**
+
+* The app automatically uses your updated `crop_disease_model.keras` file.
 
 ---
