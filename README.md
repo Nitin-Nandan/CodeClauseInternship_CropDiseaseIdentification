@@ -4,7 +4,7 @@ A user-friendly deep learning web app for identifying crop diseases from leaf im
 
 ---
 
-## Dependencies
+## Prerequisites
 
 * Visual Studio Code (with Python, Pylance, and Jupyter extensions)
 * **[Recommended]** Set VS Code's default terminal to Command Prompt (`cmd`) for smoothest experience.
@@ -59,5 +59,12 @@ venv\Scripts\activate
 ### 6. Select Python Interpreter in VS Code
 
 * Press `Ctrl+Shift+P`, type **Python: Select Interpreter**, and choose the one showing `.\venv\Scripts\python.exe`.
+
+### Install Dependencies
+
+**With the virtual environment activated:**
+```bash
+pip install -r requirements.txt
+```
 
 ---
