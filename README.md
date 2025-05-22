@@ -179,3 +179,18 @@ The included model (`crop_disease_model.keras`) was trained with the following s
 ---
 
 ## FAQs
+
+### 1. I get an error about missing classes or images?
+* Ensure the `PlantVillage` folder is placed correctly in the `CodeClauseInternship_CropDiseaseIdentification` folder and contains proper class subfolders.
+
+### 2. The app doesn’t run with `python app.py`?
+* Check installation of **Python 12.0.x** using `py -3.12 --version` in VS Code terminal. Also make sure it is **added to PATH**.
+* If **Python 3.12.x** is installed, try `py -3.12 app.py`.
+
+### 3. Can I use a GPU for training or prediction?
+* Yes, but the model is optimized for CPU-only use and runs well without a GPU.
+
+### 4. How big can my image upload be?
+* **Max 2MB**. Only JPG/JPEG/PNG files are accepted.
+
+> 💡 If you encounter any issues while exploring this project, feel free to reach out to me at **`nitinkrs1980@gmail.com`**. I’ll be glad to assist you.
