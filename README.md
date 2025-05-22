@@ -37,4 +37,12 @@ cd CodeClauseInternship_CropDiseaseIdentification
 * Download [PlantVillage](https://www.kaggle.com/datasets/emmarex/plantdisease) dataset from Kaggle.
 * Extract and move the entire `PlantVillage` folder into `CodeClauseInternship_CropDiseaseIdentification` folder.
 
+### Create a Virtual Environment
+
+**In VS Code terminal:**
+
+```bash
+py -3.12 -m venv venv
+```
+
 ---
