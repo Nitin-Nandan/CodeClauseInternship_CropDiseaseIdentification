@@ -116,4 +116,8 @@ deactivate
 
 <div align="center"><img src="static/with-input.png" alt="With Leaf Input Screen" width="45%" /></div>
 
+### 3. Upload another image
+
+* Click the **“⬆️ Upload New Image”** button to try again.
+
 ---
