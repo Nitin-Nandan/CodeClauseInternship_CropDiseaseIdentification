@@ -148,4 +148,8 @@ The included model (`crop_disease_model.keras`) was trained with the following s
 <div align="center"> <img src="static/output.png" alt="Training Graph" width="75%" /> </div>
 <p align="center"><em>Accuracy & Loss curves from model training</em></p>
 
+### Hardware
+
+* Trained on CPU (Intel i7-1255U, 16GB RAM) — no GPU required.
+
 ---
