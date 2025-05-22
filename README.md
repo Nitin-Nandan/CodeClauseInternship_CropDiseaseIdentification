@@ -46,6 +46,7 @@ py -3.12 -m venv venv
 
 * This creates a `venv` folder in your cloned directory.
 
+
 ### 5. Activate the Virtual Environment
 
 **In VS Code terminal:**
