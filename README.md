@@ -22,6 +22,8 @@ A user-friendly deep learning web app for identifying crop diseases from leaf im
 * Go to **Terminal>New Terminal**.
 * Make sure the terminal type is **Command Prompt** (not PowerShell).
 
+<br>
+
 ### 2. Clone the Repositry
 
 ```bash
@@ -32,10 +34,14 @@ git clone https://github.com/Nitin-Nandan/CodeClauseInternship_CropDiseaseIdenti
 cd CodeClauseInternship_CropDiseaseIdentification
 ```
 
+<br>
+
 ### 3. Download the Dataset
 
 * Download [PlantVillage](https://www.kaggle.com/datasets/emmarex/plantdisease) dataset from Kaggle.
 * Extract and move the entire `PlantVillage` folder into `CodeClauseInternship_CropDiseaseIdentification` folder.
+
+<br>
 
 ### 4. Create a Virtual Environment
 
