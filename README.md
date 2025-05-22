@@ -1,1 +1,1 @@
-# CodeClauseInternship_CropDiseaseIdentification
+# 🌱 Crop Disease Identification
