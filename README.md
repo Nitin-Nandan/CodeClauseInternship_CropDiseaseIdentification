@@ -1,12 +1,9 @@
 # 🌱 Crop Disease Identification
 
-A user-friendly deep learning web app for identifying crop diseases from leaf images. Upload a photo of a leaf and instantly get the predicted disease, confidence score, and actionable prevention tips.
-
----
-
 ## Contents
 
-* [Introduction](#-crop-disease-identification)
+* [Introduction](#introduction)
+* [Features](#features)
 * [Prerequisites](#prerequisites)
 * [Environment Setup & Usage](#environment-setup--usage)
 * [How to Use the App](#how-to-use-the-app)
@@ -15,6 +12,21 @@ A user-friendly deep learning web app for identifying crop diseases from leaf im
 * [Author](#author)
 * [Acknowledgements](#acknowledgements)
 * [FAQs](#faqs)
+
+---
+
+## Introduction
+
+**Crop Disease Identification** is a deep learning web application built for the CodeClause Internship (Golden Level) by Nitin Nandan. The project aims to help farmers identify crop diseases through image uploads and AI-based analysis.
+
+---
+
+## Features
+
+* Simple UI for uploading crop images.
+* Automated disease identification using state-of-the-art CNN models
+* Built with Python, Flask, and TensorFlow
+* Designed to support agricultural communities with accessible technology
 
 ---
 
