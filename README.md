@@ -193,6 +193,4 @@ The included model (`crop_disease_model.keras`) was trained with the following s
 ### 4. How big can my image upload be?
 * **Max 2MB**. Only JPG/JPEG/PNG files are accepted.
 
-<br>
-
-### 💡 If you encounter any issues while exploring this project, feel free to reach out to me at **`nitinkrs1980@gmail.com`**. I’ll be glad to assist you.
+> ### 💡 If you encounter any issues while exploring this project, feel free to reach out to me at **`nitinkrs1980@gmail.com`**. I’ll be glad to assist you.
