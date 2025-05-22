@@ -4,6 +4,14 @@ A user-friendly deep learning web app for identifying crop diseases from leaf im
 
 ---
 
+## Contents
+
+* [Introduction](#-crop-disease-identification)
+* [Prerequisites](#prerequisites)
+* [Environment Setup & Usage](#environment-setup--usage)
+
+---
+
 ## Prerequisites
 
 * [Visual Studio Code](https://code.visualstudio.com/download) (with [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python), [Pylance](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance), and [Jupyter](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter) extensions)
