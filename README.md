@@ -11,7 +11,8 @@ A user-friendly deep learning web app for identifying crop diseases from leaf im
 * [Environment Setup & Usage](#environment-setup--usage)
 * [How to Use the App](#how-to-use-the-app)
 * [Model Training Details](#model-training-details)
-* [How to Retrain the Model]()
+* [How to Retrain the Model](#how-to-retrain-the-model)
+* [FAQs]()
 
 ---
 
@@ -176,3 +177,5 @@ The included model (`crop_disease_model.keras`) was trained with the following s
 * The app automatically uses your updated `crop_disease_model.keras` file.
 
 ---
+
+## FAQs
