@@ -56,4 +56,8 @@ venv\Scripts\activate
 * You should see `(venv)` at the start of your prompt.
 * If you see any error make sure your terminal is set to Command Prompt, not PowerShell.
 
+### 6. Select Python Interpreter in VS Code
+
+* Press `Ctrl+Shift+P`, type **Python: Select Interpreter**, and choose the one showing `.\venv\Scripts\python.exe`.
+
 ---
