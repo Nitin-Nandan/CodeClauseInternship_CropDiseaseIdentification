@@ -7,7 +7,7 @@ A user-friendly deep learning web app for identifying crop diseases from leaf im
 ## Prerequisites
 
 * Visual Studio Code (with Python, Pylance, and Jupyter extensions)
-* **[Recommended]** Set VS Code's default terminal to Command Prompt (`cmd`) for smoothest experience.
+* ⚠️ Set VS Code's default terminal to Command Prompt (`cmd`) for smoothest experience.
     * Press `Ctrl+Shift+P` to open the Command Palette.
     * Type and select, `Terminal: Select Default Profile`
     * Choose **Command Prompt** from the list of available terminals.
