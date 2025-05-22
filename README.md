@@ -34,6 +34,7 @@ cd CodeClauseInternship_CropDiseaseIdentification
 
 ### 3. Download the Dataset
 
-
+* Download [PlantVillage](https://www.kaggle.com/datasets/emmarex/plantdisease) dataset from Kaggle.
+* Extract and move the entire `PlantVillage` folder into `CodeClauseInternship_CropDiseaseIdentification` folder.
 
 ---
