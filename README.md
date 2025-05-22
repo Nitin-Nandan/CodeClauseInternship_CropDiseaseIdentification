@@ -51,7 +51,7 @@
 * Go to **Terminal>New Terminal**.
 * Make sure the terminal type is **Command Prompt** (not PowerShell).
 
-### 2. Clone the Repositry
+### 2. Clone the Repository
 
 ```bash
 git clone https://github.com/Nitin-Nandan/CodeClauseInternship_CropDiseaseIdentification.git
