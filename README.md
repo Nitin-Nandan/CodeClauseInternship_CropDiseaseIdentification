@@ -10,7 +10,7 @@ A user-friendly deep learning web app for identifying crop diseases from leaf im
 * [Prerequisites](#prerequisites)
 * [Environment Setup & Usage](#environment-setup--usage)
 * [How to Use the App](#how-to-use-the-app)
-* [Model Training Details]()
+* [Model Training Details](#model-training-details)
 
 ---
 
@@ -137,8 +137,8 @@ The included model (`crop_disease_model.keras`) was trained with the following s
 | Optimizer             | Adam                                           |
 | Initial Learning Rate | 0.0001                                         |
 | Fine-tuning LR        | 0.00001                                        |
-| Epochs (initial)      | 50                                             |
-| Fine-tuning Epochs    | 15                                             |
+| Epochs (initial)      | 100                                             |
+| Fine-tuning Epochs    | 20                                             |
 | Early Stopping        | Patience = 8                                   |
 | Class Weighting       | Balanced                                       |
 | Data Augmentation     | Rotation, shift, shear, zoom, brightness, flip |
