@@ -60,11 +60,21 @@ venv\Scripts\activate
 
 * Press `Ctrl+Shift+P`, type **Python: Select Interpreter**, and choose the one showing `.\venv\Scripts\python.exe`.
 
-### Install Dependencies
+### 7. Install Dependencies
 
 **With the virtual environment activated:**
 ```bash
 pip install -r requirements.txt
 ```
+
+### 8. Run the App
+
+**With the virtual environment still activated:**
+```bash
+python app.py
+```
+
+* The app should open in your browser automatically.
+> 💡 If the app does not open automatically, visit the URL displayed on the terminal.
 
 ---
