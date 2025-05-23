@@ -161,6 +161,13 @@ The included model (`crop_disease_model.keras`) was trained with the following s
 
 </div>
 
+### Model Performance
+
+* **Training Accuracy:** 94.03%
+* **Validation Accuracy:** 95.10%
+* **Training Loss:** 0.1689
+* **Validation Loss:** 0.1520
+
 <div align="center"> <img src="static/output.png" alt="Training Graph" width="75%" /> </div>
 <p align="center"><em>Accuracy & Loss curves from model training</em></p>
 
